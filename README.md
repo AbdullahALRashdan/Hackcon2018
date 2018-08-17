@@ -1,5 +1,5 @@
 
-<h1>Hackcon2018 <br /> %00Byte Team</h1>
+<center><h1>Hackcon2018 <br /> %00Byte Team</h1></center>
 
 <h1>First You Get This Image !</h1><br />
 
